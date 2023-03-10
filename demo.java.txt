@@ -1,0 +1,5 @@
+Class Hello {
+Public Static Void Main(String args[]) {
+System.out.println("hello world");
+}
+}
